@@ -15,5 +15,5 @@
         "fileName": ""
     },
     "severityAdd": "Warning",
-    "severityRemove": "None"
+    "severityRemove": "Critical"
 }
