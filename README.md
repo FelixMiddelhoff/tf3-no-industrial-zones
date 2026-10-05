@@ -26,7 +26,7 @@ When a town grows, the game spreads the new capacity over residential, commercia
 
 ## Install
 
-Copy the folder `no_town_industry_zones_1` into the mods folder of your game, or load it through the in-game mod hub if it is published there. Start a new game and activate the mod when you create it.
+Copy the folder `no_town_industry_zones` into the mods folder of your game, or load it through the in-game mod hub if it is published there. Start a new game and activate the mod when you create it.
 
 ## Tested
 
@@ -63,7 +63,7 @@ Wächst eine Stadt, verteilt das Spiel die neue Kapazität auf Wohn-, Gewerbe- u
 
 ### Installation
 
-Den Ordner `no_town_industry_zones_1` in den Mods-Ordner des Spiels kopieren oder über den Modhub im Spiel laden, falls er dort veröffentlicht ist. Ein neues Spiel starten und den Mod beim Anlegen aktivieren.
+Den Ordner `no_town_industry_zones` in den Mods-Ordner des Spiels kopieren oder über den Modhub im Spiel laden, falls er dort veröffentlicht ist. Ein neues Spiel starten und den Mod beim Anlegen aktivieren.
 
 ### Getestet
 
