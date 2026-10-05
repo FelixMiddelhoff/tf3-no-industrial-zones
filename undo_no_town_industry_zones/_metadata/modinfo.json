@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "Felix",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "EN: Repair tool for savegames played with \"No Industrial Zones in Towns\". That mod sets the industrial capacity of every town to zero inside the savegame. Without it the game finds no industrial demand and crashes after a few minutes. This mod restores the industrial capacity of your towns.\nHow to repair a savegame (mod switch):\n1. Load the savegame, deactivate \"No Industrial Zones in Towns\" and activate this Undo mod.\n2. Let the game run for about 10 seconds. Do not pause.\n3. Save the game.\n4. Load it WITHOUT the Undo mod. Everything runs normal again.\nIndustrial buildings come back only slowly, as the towns grow. Never use this mod together with \"No Industrial Zones in Towns\". Feedback: github.com/FelixMiddelhoff/tf3-no-industrial-zones\n\nDE: Reparatur-Mod für Spielstände, die mit \"No Industrial Zones in Towns\" gespielt wurden. Dieser Mod setzt die Industriekapazität jeder Stadt im Spielstand auf null. Ohne ihn findet das Spiel keinen Industriebedarf und stürzt nach einigen Minuten ab. Dieser Mod stellt die Industriekapazität deiner Städte wieder her.\nSo reparierst du einen Spielstand (Mod-Wechsel):\n1. Spielstand laden, \"No Industrial Zones in Towns\" deaktivieren und diesen Undo-Mod aktivieren.\n2. Das Spiel etwa 10 Sekunden laufen lassen. Nicht pausieren.\n3. Spiel speichern.\n4. Den Spielstand OHNE den Undo-Mod laden. Alles läuft wieder normal.\nIndustriegebäude kommen nur langsam zurück, wenn die Städte wachsen. Diesen Mod nie zusammen mit \"No Industrial Zones in Towns\" verwenden. Feedback: github.com/FelixMiddelhoff/tf3-no-industrial-zones",
+    "name": "Undo: No Industrial Zones in Towns",
+    "summary": "Repairs savegames after removing No Industrial Zones in Towns / Repariert Spielstände",
+    "tags": [
+        "Script Mod"
+    ],
+    "url": "https://github.com/FelixMiddelhoff/tf3-no-industrial-zones"
+}
