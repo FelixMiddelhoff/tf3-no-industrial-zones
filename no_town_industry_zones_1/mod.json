@@ -1,0 +1,19 @@
+{
+    "dependencies": null,
+    "incompatibilities": null,
+    "modId": "no_town_industry_zones_1",
+    "options": null,
+    "params": null,
+    "preRunScript": {
+        "fileName": "no_town_industry_zones_1::/mod.script@preRunFn"
+    },
+    "postRunScript": {
+        "fileName": ""
+    },
+    "revision": 1,
+    "runScript": {
+        "fileName": ""
+    },
+    "severityAdd": "Warning",
+    "severityRemove": "None"
+}
