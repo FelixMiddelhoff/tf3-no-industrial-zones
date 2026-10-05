@@ -1,5 +1,7 @@
 # No Industrial Zones in Towns (Transport Fever 3)
 
+![With mod / without mod](preview.png)
+
 **EN** | [DE](#deutsch)
 
 A script mod for Transport Fever 3. Towns no longer build industrial zones, and existing industrial buildings inside towns are removed. Automatic industry spawning is switched off as well.
