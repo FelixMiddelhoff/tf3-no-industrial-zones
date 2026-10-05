@@ -1,11 +1,11 @@
 {
     "dependencies": null,
     "incompatibilities": null,
-    "modId": "no_town_industry_zones_1",
+    "modId": "felix_no_town_industry_zones_1",
     "options": null,
     "params": null,
     "preRunScript": {
-        "fileName": "no_town_industry_zones_1::/mod.script@preRunFn"
+        "fileName": "felix_no_town_industry_zones_1::/mod.script@preRunFn"
     },
     "postRunScript": {
         "fileName": ""
