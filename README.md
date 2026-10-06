@@ -34,6 +34,8 @@ The mod sets the industrial capacity of every town to zero **permanently in the 
 
 ## Undo mod (repair a savegame)
 
+![Before and after the undo mod](preview_undo.png)
+
 If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` ("Undo: No Industrial Zones in Towns"). It restores the industrial capacity of the towns and rebuilds the industrial zones in their initial size.
 
 1. Load the savegame, deactivate "No Industrial Zones in Towns" and activate the Undo mod.
