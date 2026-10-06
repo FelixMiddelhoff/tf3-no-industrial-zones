@@ -30,7 +30,7 @@ Copy the folder `no_town_industry_zones` into the mods folder of your game, or l
 
 ## Important limitation
 
-The mod sets the industrial capacity of every town to zero **permanently in the savegame**. **Do not remove the mod from a savegame you played with it**: without the mod, the game's industry logic finds no industrial demand and crashes within minutes (`GetTargetIndustriesCounts`, `maxNeeded > 0`). Always keep it active for that savegame, and try it on a copy first.
+The mod sets the industrial capacity of every town to zero **permanently in the savegame**. **Do not remove the mod from a savegame you played with it**: without the mod, the game's industry logic finds no industrial demand and crashes within minutes (`GetTargetIndustriesCounts`, `maxNeeded > 0`). The savegame saved at the crash can no longer be started, use the last autosave from before. Never remove the mod without switching directly to the Undo mod (see below). Try it on a copy first.
 
 ## Undo mod (repair a savegame)
 
@@ -84,7 +84,7 @@ Den Ordner `no_town_industry_zones` in den Mods-Ordner des Spiels kopieren oder 
 
 ### Wichtige Einschränkung
 
-Der Mod setzt die Industriekapazität jeder Stadt **dauerhaft im Spielstand** auf null. **Entferne den Mod nie aus einem Spielstand, den du damit gespielt hast**: Ohne den Mod findet die Industrie-Logik des Spiels keinen Industriebedarf und stürzt nach wenigen Minuten ab (`GetTargetIndustriesCounts`, `maxNeeded > 0`). Lass ihn für diesen Spielstand immer aktiv, und probiere ihn zuerst an einer Kopie aus.
+Der Mod setzt die Industriekapazität jeder Stadt **dauerhaft im Spielstand** auf null. **Entferne den Mod nie aus einem Spielstand, den du damit gespielt hast**: Ohne den Mod findet die Industrie-Logik des Spiels keinen Industriebedarf und stürzt nach wenigen Minuten ab (`GetTargetIndustriesCounts`, `maxNeeded > 0`). Der beim Absturz gespeicherte Spielstand lässt sich nicht mehr starten, nimm den letzten Autosave von davor. Entferne den Mod nie, ohne direkt zum Undo-Mod zu wechseln (siehe unten). Probiere ihn zuerst an einer Kopie aus.
 
 ### Undo-Mod (Spielstand reparieren)
 
