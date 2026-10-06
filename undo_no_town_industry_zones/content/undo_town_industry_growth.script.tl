@@ -1,3 +1,4 @@
+-- Undo: Towns Without Industrial Zones, revision 2
 local CheckIntervalSeconds <const> = 5.0
 local BuildCheckIntervalSeconds <const> = 60.0
 local IndustrialIndex <const> = 3

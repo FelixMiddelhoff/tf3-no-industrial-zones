@@ -9,7 +9,9 @@
     "name": "Undo: Towns Without Industrial Zones",
     "summary": "Repairs savegames after removing Towns Without Industrial Zones / Repariert Spielstände",
     "tags": [
-        "Script Mod"
+        "Script Mod",
+        "Industry",
+        "Town Building"
     ],
     "url": "https://github.com/FelixMiddelhoff/tf3-no-industrial-zones"
 }

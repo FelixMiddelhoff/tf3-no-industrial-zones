@@ -9,7 +9,9 @@
     "name": "Towns Without Industrial Zones",
     "summary": "No industrial zones in towns / Keine Industriezonen in Städten",
     "tags": [
-        "Script Mod"
+        "Script Mod",
+        "Industry",
+        "Town Building"
     ],
     "url": "https://github.com/FelixMiddelhoff/tf3-no-industrial-zones"
 }
