@@ -1,4 +1,4 @@
-# No Industrial Zones in Towns (Transport Fever 3)
+# Towns Without Industrial Zones (Transport Fever 3)
 
 ![With mod / without mod](preview.png)
 
@@ -36,9 +36,9 @@ The mod sets the industrial capacity of every town to zero **permanently in the 
 
 ![Before and after the undo mod](preview_undo.png)
 
-If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` ("Undo: No Industrial Zones in Towns"). It restores the industrial capacity of the towns and rebuilds the industrial zones in their initial size.
+If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` ("Undo: Towns Without Industrial Zones"). It restores the industrial capacity of the towns and rebuilds the industrial zones in their initial size.
 
-1. Load the savegame, deactivate "No Industrial Zones in Towns" and activate the Undo mod.
+1. Load the savegame, deactivate "Towns Without Industrial Zones" and activate the Undo mod.
 2. Let the game run for about a minute. Do not pause.
 3. Save the game.
 4. Load it without the Undo mod. Everything runs normal again.
@@ -88,9 +88,9 @@ Der Mod setzt die Industriekapazität jeder Stadt **dauerhaft im Spielstand** au
 
 ### Undo-Mod (Spielstand reparieren)
 
-Hast du den Mod schon aus einem Spielstand entfernt und das Spiel stürzt ab, nutze `undo_no_town_industry_zones` („Undo: No Industrial Zones in Towns“). Er stellt die Industriekapazität der Städte wieder her und baut die Industriezonen in der Anfangsgröße neu auf.
+Hast du den Mod schon aus einem Spielstand entfernt und das Spiel stürzt ab, nutze `undo_no_town_industry_zones` („Undo: Towns Without Industrial Zones“). Er stellt die Industriekapazität der Städte wieder her und baut die Industriezonen in der Anfangsgröße neu auf.
 
-1. Spielstand laden, „No Industrial Zones in Towns“ deaktivieren und den Undo-Mod aktivieren.
+1. Spielstand laden, „Towns Without Industrial Zones“ deaktivieren und den Undo-Mod aktivieren.
 2. Das Spiel etwa eine Minute laufen lassen. Nicht pausieren.
 3. Spiel speichern.
 4. Den Spielstand ohne den Undo-Mod laden. Alles läuft wieder normal.
