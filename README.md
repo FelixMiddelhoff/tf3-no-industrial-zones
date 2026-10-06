@@ -4,6 +4,8 @@
 
 **EN** | [DE](#deutsch)
 
+**Download on mod.io:** [Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/towns-without-industrial-zones) · [Undo: Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)
+
 A script mod for Transport Fever 3. Towns no longer build industrial zones, and existing industrial buildings inside towns are removed. Automatic industry spawning is switched off as well.
 
 **Please test it in a new game or on a copy of your savegame first, and tell me how it works for you** (see [Feedback](#feedback)).
@@ -36,7 +38,7 @@ The mod sets the industrial capacity of every town to zero **permanently in the 
 
 ![Before and after the undo mod](preview_undo.png)
 
-If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` ("Undo: Towns Without Industrial Zones"). It restores the industrial capacity of the towns and rebuilds the industrial zones in their initial size.
+If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` (["Undo: Towns Without Industrial Zones"](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)). It restores the industrial capacity of the towns and rebuilds the industrial zones in their initial size.
 
 1. Load the savegame, deactivate "Towns Without Industrial Zones" and activate the Undo mod.
 2. Let the game run for about a minute. Do not pause.
@@ -65,6 +67,8 @@ MIT, see [LICENSE](LICENSE).
 
 ## Deutsch
 
+**Download auf mod.io:** [Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/towns-without-industrial-zones) · [Undo: Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)
+
 Ein Script-Mod für Transport Fever 3. Städte bauen keine Industriezonen mehr, und bestehende Industriegebäude in Städten werden entfernt. Das automatische Entstehen neuer Industrien ist ebenfalls abgeschaltet.
 
 **Bitte zuerst in einem neuen Spiel oder mit einer Kopie deines Spielstands testen und mir Rückmeldung geben** (siehe [Feedback](#feedback-1)).
@@ -90,7 +94,7 @@ Der Mod setzt die Industriekapazität jeder Stadt **dauerhaft im Spielstand** au
 
 ### Undo-Mod (Spielstand reparieren)
 
-Hast du den Mod schon aus einem Spielstand entfernt und das Spiel stürzt ab, nutze `undo_no_town_industry_zones` („Undo: Towns Without Industrial Zones“). Er stellt die Industriekapazität der Städte wieder her und baut die Industriezonen in der Anfangsgröße neu auf.
+Hast du den Mod schon aus einem Spielstand entfernt und das Spiel stürzt ab, nutze `undo_no_town_industry_zones` ([„Undo: Towns Without Industrial Zones“](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)). Er stellt die Industriekapazität der Städte wieder her und baut die Industriezonen in der Anfangsgröße neu auf.
 
 1. Spielstand laden, „Towns Without Industrial Zones“ deaktivieren und den Undo-Mod aktivieren.
 2. Das Spiel etwa eine Minute laufen lassen. Nicht pausieren.
