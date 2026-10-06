@@ -21,7 +21,7 @@ When a town grows, the game spreads the new capacity over residential, commercia
 
 ## How it works
 
-- `content/no_town_industry_growth.gs.lua` and `.script.tl`: a game script that sets the industrial initial land-use capacity of every town to 0 (`makeTownSetInitialLandUseCapacitiesCmd`).
+- `content/no_town_industry_growth.gs.lua` and `.script.tl`: a game script that sets the industrial initial land-use capacity of every town to 0 (`makeTownSetInitialLandUseCapacitiesCmd`). Then it asks the towns to update their buildings (`makeTownUpdateSizeCmd`), so existing industrial buildings are removed at once instead of over months.
 - `content/mod.script.tl`: `preRunFn` disables industry spawning.
 
 ## Install
@@ -49,7 +49,9 @@ Never use both mods together.
 
 Tested on Transport Fever 3, build 40408: new game, saving, quitting and loading again, more than 30 minutes of play without errors. Undo mod: a savegame that crashed without the main mod ran for more than 10 minutes without errors after the repair (industrial buildings were rebuilt within seconds in all 13 towns of the test savegame).
 
-Not tested: adding the mod to an old savegame that already has industrial zones, and the combination with other mods that change town growth.
+Also tested: adding the mod to an existing savegame (the industrial buildings were removed), and rescuing the savegame that the game saved at the crash: loaded with the Undo mod it ran for more than 10 minutes, and after saving it ran without any mod for more than 17 minutes.
+
+Not tested: the combination with other mods that change town growth, and savegames with many more towns than the 13 of the test savegame.
 
 ## Feedback
 
@@ -101,7 +103,9 @@ Nie beide Mods zusammen verwenden.
 
 Getestet mit Transport Fever 3, Build 40408: neues Spiel, Speichern, Beenden und Neuladen, über 30 Minuten Spielzeit ohne Fehler. Undo-Mod: Ein Spielstand, der ohne den Haupt-Mod abstürzte, lief nach der Reparatur über 10 Minuten ohne Fehler (die Industriegebäude wurden in allen 13 Städten des Testspielstands innerhalb von Sekunden neu aufgebaut).
 
-Nicht getestet: den Mod in einen alten Spielstand mit bestehenden Industriezonen einbinden, und die Kombination mit anderen Mods, die das Stadtwachstum verändern.
+Außerdem getestet: den Mod in einen bestehenden Spielstand einbinden (die Industriegebäude wurden entfernt) und den Spielstand retten, den das Spiel beim Absturz gespeichert hat: Mit dem Undo-Mod geladen lief er über 10 Minuten, und nach dem Speichern lief er ohne Mods über 17 Minuten.
+
+Nicht getestet: die Kombination mit anderen Mods, die das Stadtwachstum verändern, und Spielstände mit deutlich mehr Städten als den 13 des Testspielstands.
 
 ### Feedback
 
