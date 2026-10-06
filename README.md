@@ -34,18 +34,18 @@ The mod sets the industrial capacity of every town to zero **permanently in the 
 
 ## Undo mod (repair a savegame)
 
-If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` ("Undo: No Industrial Zones in Towns"). It restores the industrial capacity of the towns.
+If you already removed the mod from a savegame and the game crashes, use `undo_no_town_industry_zones` ("Undo: No Industrial Zones in Towns"). It restores the industrial capacity of the towns and rebuilds the industrial zones in their initial size.
 
 1. Load the savegame, deactivate "No Industrial Zones in Towns" and activate the Undo mod.
-2. Let the game run for about 10 seconds. Do not pause.
+2. Let the game run for about a minute. Do not pause.
 3. Save the game.
 4. Load it without the Undo mod. Everything runs normal again.
 
-Industrial buildings come back only slowly, as the towns grow. Never use both mods together.
+Never use both mods together.
 
 ## Tested
 
-Tested on Transport Fever 3, build 40408: new game, saving, quitting and loading again, more than 30 minutes of play without errors. Undo mod: a savegame that crashed without the main mod ran for 26 minutes without errors after the repair.
+Tested on Transport Fever 3, build 40408: new game, saving, quitting and loading again, more than 30 minutes of play without errors. Undo mod: a savegame that crashed without the main mod ran for more than 10 minutes without errors after the repair (industrial buildings were rebuilt within seconds in all 13 towns of the test savegame).
 
 Not tested: adding the mod to an old savegame that already has industrial zones, and the combination with other mods that change town growth.
 
@@ -86,18 +86,18 @@ Der Mod setzt die Industriekapazität jeder Stadt **dauerhaft im Spielstand** au
 
 ### Undo-Mod (Spielstand reparieren)
 
-Hast du den Mod schon aus einem Spielstand entfernt und das Spiel stürzt ab, nutze `undo_no_town_industry_zones` („Undo: No Industrial Zones in Towns“). Er stellt die Industriekapazität der Städte wieder her.
+Hast du den Mod schon aus einem Spielstand entfernt und das Spiel stürzt ab, nutze `undo_no_town_industry_zones` („Undo: No Industrial Zones in Towns“). Er stellt die Industriekapazität der Städte wieder her und baut die Industriezonen in der Anfangsgröße neu auf.
 
 1. Spielstand laden, „No Industrial Zones in Towns“ deaktivieren und den Undo-Mod aktivieren.
-2. Das Spiel etwa 10 Sekunden laufen lassen. Nicht pausieren.
+2. Das Spiel etwa eine Minute laufen lassen. Nicht pausieren.
 3. Spiel speichern.
 4. Den Spielstand ohne den Undo-Mod laden. Alles läuft wieder normal.
 
-Industriegebäude kommen nur langsam zurück, wenn die Städte wachsen. Nie beide Mods zusammen verwenden.
+Nie beide Mods zusammen verwenden.
 
 ### Getestet
 
-Getestet mit Transport Fever 3, Build 40408: neues Spiel, Speichern, Beenden und Neuladen, über 30 Minuten Spielzeit ohne Fehler. Undo-Mod: Ein Spielstand, der ohne den Haupt-Mod abstürzte, lief nach der Reparatur 26 Minuten ohne Fehler.
+Getestet mit Transport Fever 3, Build 40408: neues Spiel, Speichern, Beenden und Neuladen, über 30 Minuten Spielzeit ohne Fehler. Undo-Mod: Ein Spielstand, der ohne den Haupt-Mod abstürzte, lief nach der Reparatur über 10 Minuten ohne Fehler (die Industriegebäude wurden in allen 13 Städten des Testspielstands innerhalb von Sekunden neu aufgebaut).
 
 Nicht getestet: den Mod in einen alten Spielstand mit bestehenden Industriezonen einbinden, und die Kombination mit anderen Mods, die das Stadtwachstum verändern.
 
