@@ -4,7 +4,7 @@
 
 **EN** | [DE](#deutsch)
 
-**Download on mod.io:** [Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/towns-without-industrial-zones) · [Undo: Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)
+**Get it in the in-game Mod Hub** (mod.io): [Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/towns-without-industrial-zones) · [Undo: Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)
 
 A script mod for Transport Fever 3. Towns no longer build industrial zones, and existing industrial buildings inside towns are removed. Automatic industry spawning is switched off as well.
 
@@ -28,7 +28,7 @@ When a town grows, the game spreads the new capacity over residential, commercia
 
 ## Install
 
-Copy the folder `no_town_industry_zones` into the mods folder of your game, or load it through the in-game mod hub if it is published there. Start a new game and activate the mod when you create it.
+Open the **Mod Hub** in the game, search for "Towns Without Industrial Zones" and subscribe. Then start a new game and activate the mod when you create it. This repository holds the source code and is the place for feedback; the mods are meant to be installed through the Mod Hub.
 
 ## Important limitation
 
@@ -67,7 +67,7 @@ MIT, see [LICENSE](LICENSE).
 
 ## Deutsch
 
-**Download auf mod.io:** [Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/towns-without-industrial-zones) · [Undo: Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)
+**Im Spiel über den Mod-Hub laden** (mod.io): [Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/towns-without-industrial-zones) · [Undo: Towns Without Industrial Zones](https://mod.io/g/transportfever3/m/undo-towns-without-industrial-zones)
 
 Ein Script-Mod für Transport Fever 3. Städte bauen keine Industriezonen mehr, und bestehende Industriegebäude in Städten werden entfernt. Das automatische Entstehen neuer Industrien ist ebenfalls abgeschaltet.
 
@@ -86,7 +86,7 @@ Wächst eine Stadt, verteilt das Spiel die neue Kapazität auf Wohn-, Gewerbe- u
 
 ### Installation
 
-Den Ordner `no_town_industry_zones` in den Mods-Ordner des Spiels kopieren oder über den Modhub im Spiel laden, falls er dort veröffentlicht ist. Ein neues Spiel starten und den Mod beim Anlegen aktivieren.
+Im Spiel den **Mod-Hub** öffnen, nach „Towns Without Industrial Zones“ suchen und abonnieren. Dann ein neues Spiel starten und den Mod beim Anlegen aktivieren. Dieses Repository enthält den Quellcode und ist der Ort für Rückmeldungen. Die Mods sind dafür gedacht, über den Mod-Hub installiert zu werden.
 
 ### Wichtige Einschränkung
 
